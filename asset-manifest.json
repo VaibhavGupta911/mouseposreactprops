@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mouseposreactprops/static/css/main.1a090d87.css",
+    "main.js": "/mouseposreactprops/static/js/main.0bae389f.js",
+    "static/js/787.4b3f99ce.chunk.js": "/mouseposreactprops/static/js/787.4b3f99ce.chunk.js",
+    "index.html": "/mouseposreactprops/index.html",
+    "main.1a090d87.css.map": "/mouseposreactprops/static/css/main.1a090d87.css.map",
+    "main.0bae389f.js.map": "/mouseposreactprops/static/js/main.0bae389f.js.map",
+    "787.4b3f99ce.chunk.js.map": "/mouseposreactprops/static/js/787.4b3f99ce.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1a090d87.css",
+    "static/js/main.0bae389f.js"
+  ]
+}
